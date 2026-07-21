@@ -1,0 +1,6 @@
+com\skillsphere\learning\service\EnrollmentServiceTest.class
+com\skillsphere\learning\security\JwtAuthFilterTest.class
+com\skillsphere\learning\service\LearningPathServiceTest.class
+com\skillsphere\learning\client\SkillServiceClientTest.class
+com\skillsphere\learning\controller\CourseControllerSecurityTest.class
+com\skillsphere\learning\service\CourseServiceTest.class
