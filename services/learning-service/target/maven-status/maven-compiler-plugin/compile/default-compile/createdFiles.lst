@@ -28,6 +28,7 @@ com\skillsphere\learning\exception\GlobalExceptionHandler$ErrorResponse.class
 com\skillsphere\learning\client\SkillServiceClient.class
 com\skillsphere\learning\dto\CompleteEnrollmentRequest.class
 com\skillsphere\learning\entity\Course.class
+com\skillsphere\learning\config\CorsConfig.class
 com\skillsphere\learning\entity\LearningPathCourseId.class
 com\skillsphere\learning\controller\EnrollmentController.class
 com\skillsphere\learning\dto\CourseEnrollmentStats.class
